@@ -8,7 +8,7 @@ function Nav() {
   return (
     <>
       <Navbar style={{ backgroundColor: "#8884d8", justifyContent: 'center' }}>
-          <Navbar.Brand href="#home" style={{ color: 'white', textAlign: 'center' }}>
+          <Navbar.Brand style={{ color: 'white', textAlign: 'center' }}>
             Stock Market Predictor{' '}
             <img
               src={stockIcon}
