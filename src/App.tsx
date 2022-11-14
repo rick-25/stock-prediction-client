@@ -28,6 +28,7 @@ function App() {
             <option value="GOOGL">Google</option>
             <option value="AAPL">Apple</option>
             <option value="META">Meta</option>
+            <option value="SUZLON.NS">Suzlon</option>
           </Form.Select>
         </div>
         {prediction && (
